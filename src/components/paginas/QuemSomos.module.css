@@ -1,0 +1,60 @@
+.banner img {
+    margin-top: 94px;
+}
+
+.banner h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20%;
+    color: #fff;
+}
+
+.quem_somos {
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+.quem_somos h2 {
+    font-size: 2.3em;
+    font-weight: 600;
+}
+
+.quem_somos h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.quem_somos p {
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 0 30% 0 0;
+}
+
+.quem_somos img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.quem_somos button {
+    font-size: 1.2rem;
+    font-weight: 500;
+    background-color: #ffbb33;
+    border: 1px solid #000;
+    border-radius: 150px;
+    color: #000;
+    padding: 10px 40px;
+}
+
+.quem_somos button:hover {
+    background-color: #000;
+    border: 1px solid #ffbb33;
+    color: #ffbb33;
+}
+
+.texto {
+    display: none;
+}

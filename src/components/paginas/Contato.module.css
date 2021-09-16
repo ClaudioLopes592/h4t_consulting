@@ -1,0 +1,65 @@
+.banner img {
+    margin-top: 94px;
+}
+
+.banner h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20%;
+    color: #fff;
+}
+
+.form_contato {
+    padding: 0 20% 0 25%;
+}
+
+.form_contato h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.form_contato i {
+    color: rgb(192, 192, 29);
+    margin-right: 10px;
+}
+
+.form_contato p {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.form_contato input {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-left: 20%;
+}
+
+.form_contato textarea {
+    width: 400px;
+    margin-left: 20%;
+}
+
+.form_contato button {
+    margin-top: 30px;
+    margin-left: 20%;
+}
+
+@media screen and (max-width: 768px) {
+    .form_contato input {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .form_contato textarea {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .form_contato button {
+        margin-left: 0;
+    }
+}

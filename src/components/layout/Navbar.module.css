@@ -1,0 +1,16 @@
+.navbar {
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.navbar img {
+    width: 60px;
+    background-color: #ffbb33;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.navbar ul {
+    margin-right: 50px;
+}

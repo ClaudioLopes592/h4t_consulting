@@ -1,0 +1,97 @@
+.banner img {
+    margin-top: 94px;
+}
+
+.banner h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20%;
+    color: #fff;
+}
+
+.o_que_fazemos p {
+    font-size: 1.2em;
+    color: #000;
+    text-align: justify;
+    padding: 5% 15% 3% 15%;
+}
+
+.accordion {
+    padding: 0 15% 0 15%;
+}
+
+.accordion button {
+    margin-bottom: 10px;
+}
+
+.accordion p {
+    font-size: 1.2em;
+    text-align: justify;
+    color: #000;
+}
+
+.accordion i {
+    padding-right: 20px;
+    color: #ffbb33;
+}
+
+.accordion h5 {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.accordion ul li {
+    font-size: 1em;
+    color: #000;
+}
+
+.accordion h4 {
+    font-size: 2em;
+    margin-left: 10%;
+}
+
+.um span {
+    font-size: 2em;
+    font-weight: 600;
+    margin-left: 60px;
+    color: #ffbb33;
+}
+
+.um p {
+    text-align: center;
+}
+
+.brasao {
+    width: 250px;
+    height: 228px;
+    margin-left: 30%;
+}
+
+.slac {
+    width: 250px;
+    height: 250px;
+}
+
+
+
+.botao1 {
+    width: 250px;
+    margin: 2% 5% 5% 5%;
+    padding: 20px 40px 0 40px;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 15px;
+    background-color: #ffbb33;
+}
+
+.botao2 {
+    width: 250px;
+    margin: 2% 0 5% 5%;
+    padding: 20px 40px 0 40px;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 15px;
+    background-color: #ffbb33;
+}

@@ -1,0 +1,55 @@
+.banner img {
+    margin-top: 94px;
+}
+
+.banner h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20%;
+    color: #fff;
+}
+
+.blog figure {
+    margin: 30px auto;
+}
+
+.blog img {
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 25%;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #000;
+    text-shadow: .1rem .1rem 2px rgba(255, 255, 0, 1);
+}
+
+.blog h4 {
+    font-weight: bold;
+}
+
+.blog span {
+    font-size: 1em;
+    color: #000;
+}
+
+.blog p {
+    font-size: 1.2em;
+    color: #000;
+}
+
+@media screen and (max-width: 768px) {
+    .blog figure {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .blog img {
+        width: 100%;
+        margin-left: 0;
+    }
+}

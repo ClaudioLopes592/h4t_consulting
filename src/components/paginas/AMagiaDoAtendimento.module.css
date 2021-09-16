@@ -1,0 +1,117 @@
+.banner img {
+    max-height: 100%;
+    margin-bottom: 40px;
+}
+
+.banner h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20%;
+    color: #000;
+}
+
+.magia i {
+    padding: 0 10px 20px 20px;
+}
+
+.icone_1 {
+    font-size: 1em;
+    color: #000;
+    text-decoration: none;
+    margin-left: 70%;
+}
+
+.icone_2 {
+    font-size: 1em;
+    color: #000;
+    text-decoration: none;
+}
+
+.magia p {
+    font-size: 1.2em;
+    color: #000;
+    text-align: justify;
+    padding: 0 10% 0 15%;
+    margin-top: 30px;
+}
+
+.card_1 {
+    max-width: 15em;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.card_2 {
+    max-width: 15em;
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.card_3 {
+    max-width: 25em;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.social h3 {
+    font-size: 2rem;
+    text-align: right;
+    margin-left: 20%;
+}
+
+.social hr {
+    border: 2px solid #000;
+}
+
+.facebook i {
+    width: 50px;
+    height: 50px;
+    background-color: #0A58CA;
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.twitter i {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(28, 160, 149);
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.whatsapp i {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(20, 194, 20);
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+@media screen and (max-width: 768px) {
+    .icone_1 {
+        font-size: .8em;
+        margin-left: 30px;
+    }
+
+    .icone_2 {
+        font-size: .8em;
+        margin-left: 0;
+    }
+
+    .card_2 {
+        margin-left: 20%;
+    }
+}
